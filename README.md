@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NidhishKumarReddy
-- 👀 I’m interested in FrontEnd WebDevelopment
-- 🌱 I’m currently learning React, Next.js
-- 💞️ I’m looking to collaborate on FrontEnd WebD Projects
+- 👀 I’m interested in WebDevelopment
+- 🌱 I’m currently using the frameworks React, Node for the development
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me nidhishkumarreddy@gmail.com
 
 <!---
