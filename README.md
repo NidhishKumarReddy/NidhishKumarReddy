@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NidhishKumarReddy
-- 👀 I’m interested in WebDevelopment
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently using the frameworks React, Node for the development
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me nidhishkumarreddy@gmail.com
